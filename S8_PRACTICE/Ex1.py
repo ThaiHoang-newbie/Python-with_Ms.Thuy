@@ -1,5 +1,0 @@
-s1=input()
-s2=input()
-s3=input()
-s4=input()
-print(str(len(s1))+"-"+str(len(s2))+"-"+str(len(s3))+"-"+str(len(s4)))
